@@ -229,7 +229,7 @@ $grid.add_CellDoubleClick({
 	
 	# Previous event button
 	$btnPrevious = New-Object System.Windows.Forms.Button
-	$btnPrevious.Text = "Previuous Event"
+	$btnPrevious.Text = "Previous Event"
 	$btnPrevious.AutoSize = $True
 	$btnPrevious.Add_Click({
 		# Checking if reached event index 0
