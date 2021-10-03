@@ -105,7 +105,7 @@ $screen_height = [Int32]::Parse([System.Windows.Forms.Screen]::PrimaryScreen.Wor
 $form.Size = New-Object System.Drawing.Size @($screen_width, $screen_height)
 $form.WindowState = [System.Windows.Forms.FormWindowState]::Maximized
 $form.AutoScroll = $True
-$form.Text = "Eventos de Segurança Importantes"
+$form.Text = "Eventos de Segurança Importantes (Últimas 24 horas)"
 $form.Icon = New-Object System.Drawing.Icon "$ME_PATH\citra.ico"
 
 
