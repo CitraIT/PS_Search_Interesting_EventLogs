@@ -1,5 +1,5 @@
 # PS_Search_Interesting_EventLogs
-## SCript Powershell para exibir e filtrar apenas eventos relevantes de segurança do Windows.
+## Script Powershell para exibir e filtrar apenas eventos relevantes de segurança do Windows.
 
 Por padrão o Script exibe os logs das últimas 24 horas.
 
